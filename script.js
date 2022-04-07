@@ -11,5 +11,3 @@ function para_third_year()
 	document.getElementById("third_year").innerHTML = "Hello i am a third year student finishing my last year of studies"; 
 	
 }         
-
-  
